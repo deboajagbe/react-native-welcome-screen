@@ -1,6 +1,12 @@
 
 # react-native-welcome-screen
 
+![Alt Text](https://github.com/deboajagbe/react-native-welcome-screen/raw/master/s1.png)
+![Alt Text](https://github.com/deboajagbe/react-native-welcome-screen/raw/master/s2.png)
+![Alt Text](https://github.com/deboajagbe/react-native-welcome-screen/raw/master/s3.png)
+![Alt Text](https://github.com/deboajagbe/react-native-welcome-screen/raw/master/s4.png)
+![Alt Text](https://github.com/deboajagbe/react-native-welcome-screen/raw/master/s5.png)
+
 ## Getting started
 
 `$ npm install react-native-welcome-screen --save`
